@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e1dfc28-2682-46a5-9f18-03cbd22b3244" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="package.json" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23mNPHo2CJgoYyzzuSdTUBv1BQO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../guide-rpc-framework" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.framework.rpc.annotation" />
+      <recent name="com.framework.rpc.compress" />
+      <recent name="com.framework.common.enums" />
+      <recent name="com.framework.rpc.remoting.dto" />
+      <recent name="com.framework.common.exception" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ZooKeeper">
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.framework.rpc.demo.NettyClient" />
+      <module name="rpc-framework-simple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.framework.rpc.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.framework.rpc.demo.NettyServer" />
+      <module name="rpc-framework-simple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.framework.rpc.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.framework.rpc.test.Test" />
+      <module name="rpc-framework-simple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.framework.rpc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZooKeeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.framework.rpc.test.ZooKeeper" />
+      <module name="rpc-framework-simple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.framework.rpc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZooKeeper" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.NettyClient" />
+        <item itemvalue="Application.NettyServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e1dfc28-2682-46a5-9f18-03cbd22b3244" name="Default Changelist" comment="" />
+      <created>1642335276404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642335276404</updated>
+      <workItem from="1642335280439" duration="123000" />
+      <workItem from="1642335431737" duration="292000" />
+      <workItem from="1642335747433" duration="1145000" />
+      <workItem from="1642400508631" duration="26774000" />
+      <workItem from="1642488347580" duration="1841000" />
+      <workItem from="1642567091418" duration="23523000" />
+      <workItem from="1642650002398" duration="43206000" />
+      <workItem from="1642811727660" duration="74000" />
+      <workItem from="1642828112326" duration="43217000" />
+      <workItem from="1643775219543" duration="5351000" />
+      <workItem from="1644475753348" duration="15878000" />
+      <workItem from="1644840345548" duration="721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="35" key="#Project_Structure" timestamp="1642403622626">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="233" y="35" key="#Project_Structure/0.0.1280.752@0.0.1280.752" timestamp="1642403622626" />
+    <state x="446" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1642918370960">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="446" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1280.752@0.0.1280.752" timestamp="1642918370960" />
+    <state x="179" y="301" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1642602545384">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="179" y="301" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.752@0.0.1280.752" timestamp="1642602545384" />
+    <state x="380" y="235" width="519" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1642768036102">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="380" y="235" width="519" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.752@0.0.1280.752" timestamp="1642768036102" />
+    <state x="371" y="123" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1642403649012">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="371" y="123" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.752@0.0.1280.752" timestamp="1642403649012" />
+    <state x="421" y="131" key="FileChooserDialogImpl" timestamp="1644490740280">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="421" y="131" key="FileChooserDialogImpl/0.0.1280.752@0.0.1280.752" timestamp="1644490740280" />
+    <state width="1238" height="486" key="GridCell.Tab.0.bottom" timestamp="1642576687908">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="486" key="GridCell.Tab.0.bottom/0.0.1280.752@0.0.1280.752" timestamp="1642576687908" />
+    <state width="1238" height="486" key="GridCell.Tab.0.center" timestamp="1642576687908">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="486" key="GridCell.Tab.0.center/0.0.1280.752@0.0.1280.752" timestamp="1642576687908" />
+    <state width="1238" height="486" key="GridCell.Tab.0.left" timestamp="1642576687908">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="486" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.752" timestamp="1642576687908" />
+    <state width="1238" height="486" key="GridCell.Tab.0.right" timestamp="1642576687908">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="486" key="GridCell.Tab.0.right/0.0.1280.752@0.0.1280.752" timestamp="1642576687908" />
+    <state x="142" y="18" key="SettingsEditor" timestamp="1642861188729">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="142" y="18" key="SettingsEditor/0.0.1280.752@0.0.1280.752" timestamp="1642861188729" />
+    <state x="324" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1644840389384">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="324" y="200" key="com.intellij.ide.util.TipDialog/0.0.1280.752@0.0.1280.752" timestamp="1644840389384" />
+    <state x="412" y="94" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1642403048871">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="412" y="94" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.752@0.0.1280.752" timestamp="1642403048871" />
+    <state x="367" y="152" width="779" height="600" key="find.popup" timestamp="1644498928551">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="367" y="152" width="779" height="600" key="find.popup/0.0.1280.752@0.0.1280.752" timestamp="1644498928551" />
+    <state x="14" y="143" key="new project wizard" timestamp="1642400556497">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="14" y="143" key="new project wizard/0.0.1280.752@0.0.1280.752" timestamp="1642400556497" />
+    <state x="306" y="176" width="672" height="677" key="run.anything.popup" timestamp="1644478974950">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="306" y="176" width="672" height="677" key="run.anything.popup/0.0.1280.752@0.0.1280.752" timestamp="1644478974950" />
+    <state x="330" y="100" width="672" height="678" key="search.everywhere.popup" timestamp="1644493346591">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="330" y="100" width="672" height="678" key="search.everywhere.popup/0.0.1280.752@0.0.1280.752" timestamp="1644493346591" />
+  </component>
+</project>
